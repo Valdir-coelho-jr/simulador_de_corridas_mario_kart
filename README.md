@@ -1,5 +1,23 @@
 <h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
 
+**Complementação do Desafio:**
+
+Concluí este desafio da DIO como demonstração de meus conhecimentos em lógica de programação e JavaScript. A implementação do projeto me permitiu:
+
+- Aplicar conceitos de variáveis, funções, estruturas de decisão e repetição.
+- Trabalhar com números aleatórios e operações matemáticas.
+- Construir a lógica de um jogo complexo, com base em regras e eventos.
+- Criar uma experiência interativa e divertida para o usuário.
+
+**Observações:**
+
+- O código foi desenvolvido em JavaScript puro, sem bibliotecas adicionais.
+- O projeto pode ser estendido com novas funcionalidades, como:
+    - Mais personagens e pistas
+    - Itens e power-ups
+    - Modos de jogo diferentes
+
+<br>
   <table>
         <tr>
             <td>
